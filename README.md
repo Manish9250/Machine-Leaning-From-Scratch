@@ -12,7 +12,7 @@ Each model folder contains:
 
 - 📘 `theory.md` – Intuition and math behind the model  
 - 🛠️ `model_numpy.ipynb` – Full implementation using NumPy and pandas  
-- 🆚 `sklearn_comparison.ipynb` – Comparison with scikit-learn  
+- 🆚 Comparison with scikit-learn  
 - 📊 Simple dataset for testing and evaluation  
 
 ---
@@ -20,7 +20,8 @@ Each model folder contains:
 ## ✅ Models Covered
 
 - [x] Linear Regression  
-- [ ] Logistic Regression  
+- [x] Logistic Regression  
+- [x] Perceptron
 - [ ] k-Nearest Neighbors (KNN)  
 - [ ] Naive Bayes  
 - [ ] Decision Tree  
