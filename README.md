@@ -22,7 +22,7 @@ Each model folder contains:
 - [x] Linear Regression  
 - [x] Logistic Regression  
 - [x] Perceptron
-- [ ] k-Nearest Neighbors (KNN)  
+- [x] k-Nearest Neighbors (KNN)  
 - [ ] Naive Bayes  
 - [ ] Decision Tree  
 - [ ] K-Means Clustering  
