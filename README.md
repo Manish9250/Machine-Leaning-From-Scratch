@@ -23,7 +23,9 @@ Each model folder contains:
 - [x] Logistic Regression  
 - [x] Perceptron
 - [x] k-Nearest Neighbors (KNN)  
-- [ ] Naive Bayes  
+- [x] Naive Bayes: MultinomialNB  
+- [] Naive Bayes: BernoulliNB  
+- [] Naive Bayes: GaussianNB  
 - [ ] Decision Tree  
 - [ ] K-Means Clustering  
 - [ ] PCA (Principal Component Analysis)  
