@@ -26,7 +26,7 @@ Each model folder contains:
 - [x] Naive Bayes: MultinomialNB, GaussianNB  
 - [x] Decision Tree  
 - [x] K-Means Clustering  a
-- [ ] PCA (Principal Component Analysis)  
+- [x] PCA (Principal Component Analysis)  
 - [ ] Support Vector Machine (SVM)  
 - [ ] Gradient Descent Optimization  
 - [ ] Ensemble Models (Bagging, Boosting)  
